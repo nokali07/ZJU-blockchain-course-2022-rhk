@@ -1,0 +1,45 @@
+.container {
+  width: 500px;
+  height: 1000px;
+
+  background: #F2F3F4;
+}
+
+.main {
+  padding: 10px;
+}
+
+.operation {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  margin-top: 20px;
+}
+
+.iniitial {
+  height: 200px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.vote {
+  height: 200px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.judge {
+  height: 200px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
