@@ -20,9 +20,11 @@
     npx hardhat run ./scripts/deploy.ts --network ganache
     ```
     ganache的地址与私钥：
-    ![image](https://user-images.githubusercontent.com/107160066/200673783-2c603dcb-098d-4881-b129-6440716474cb.png)
+![image](https://user-images.githubusercontent.com/107160066/200674381-ef8dcf8b-380a-4e1b-bf7f-c21f488b8821.png)
+
     部署成功在下列地址：
-    ![image](https://user-images.githubusercontent.com/107160066/200668731-df9a3239-2e54-44d9-b60d-78b3bce9770e.png)
+![image](https://user-images.githubusercontent.com/107160066/200674571-3c0ee220-9e8e-4424-9c0d-dac6a7a035bf.png)
+
     
 5. 将生成的abi和合约地址移到前端程序
 
