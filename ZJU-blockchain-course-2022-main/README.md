@@ -23,14 +23,19 @@
     ![image](https://user-images.githubusercontent.com/107160066/200673783-2c603dcb-098d-4881-b129-6440716474cb.png)
     部署成功在下列地址：
     ![image](https://user-images.githubusercontent.com/107160066/200668731-df9a3239-2e54-44d9-b60d-78b3bce9770e.png)
+    
 5. 将生成的abi和合约地址移到前端程序
+
 ![image](https://user-images.githubusercontent.com/107160066/200670544-03abf8d5-be22-4520-8dae-f51fa77c049e.png)
 
 6. 在 `./frontend` 中启动前端程序，运行如下的命令：
+
     ```bash
     npm run start
     ```
+    
 ![image](https://user-images.githubusercontent.com/107160066/200672466-6dff3271-45cf-4569-8a11-e6af415779e6.png)
+
 7、运行程序
 
 ## 功能实现分析
